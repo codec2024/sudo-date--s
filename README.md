@@ -6,12 +6,12 @@ This script sets the date and time on your Linux system, particularly useful if 
 
 Format: YYYY-MM-DD HH:MM:SS
 
-YYYY: Year (e.g., 2024)
-MM: Month (e.g., 12 for December)
-DD: Day (e.g., 17)
-HH: Hour (24-hour format, e.g., 14 for 2 PM)
-MM: Minutes (e.g., 46)
-SS: Seconds (e.g., 00)
+- YYYY: Year (e.g., 2024)
+- MM: Month (e.g., 12 for December)
+- DD: Day (e.g., 17)
+- HH: Hour (24-hour format, e.g., 14 for 2 PM)
+- MM: Minutes (e.g., 46)
+- SS: Seconds (e.g., 00)
 
 # Setting Up the Script:
 
