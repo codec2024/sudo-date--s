@@ -17,4 +17,4 @@ Format: YYYY-MM-DD HH:MM:SS
 
 1. Save the script to a location of your choice, such as /usr/local/bin/set-time.sh
 2. Make the script executable, run: sudo chmod +x /usr/local/bin/set-time.sh
-3. Make the script run automatically at startup (just google it)
+3. Manually execute or make the script run automatically at startup (just google it)
